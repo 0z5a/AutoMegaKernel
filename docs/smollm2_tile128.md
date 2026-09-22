@@ -71,5 +71,5 @@ and is not included.
 [All timings, per-step comparisons, checkpoint hashes and the original runner](https://gist.github.com/0z5a/7b6a65fb1899b27411706bb402201016)
 are published together. The archive documents the exact directory layout and
 commands for replaying all four processes. The compact checked-in
-[results](smollm2_tile128_results.json) retain every recorded request time and
+results (record retained locally) retain every recorded request time and
 original receipt hashes. No GPU test was rerun for publication.
